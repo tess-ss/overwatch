@@ -1,7 +1,3 @@
-Here's the same description with added emojis to make it more engaging and friendly:
-
----
-
 **Description**:  
 🔍 **Overwatch** is an automated vulnerability scanning and notification tool designed for continuous monitoring and reporting of 🛡️ **critical** and ⚠️ **high-severity findings**. It leverages Axiom, Subfinder, HTTPx, and Nuclei to perform the following tasks:  
 - 🚀 Spins up Axiom instances for distributed scanning.  
