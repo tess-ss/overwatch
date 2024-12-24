@@ -37,6 +37,7 @@ Please find the following tools here:
 * [Httpx](https://github.com/projectdiscovery/httpx)
 * [Nuclei](https://github.com/projectdiscovery/nuclei)
 * [Notify](https://github.com/projectdiscovery/notify)
+* Please make sure you're using the following axiom json module mentioned in this repo [nucleis.json](https://github.com/tess-ss/overwatch/blob/main/nucleis.json)
 
 ---
 
