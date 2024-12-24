@@ -28,8 +28,15 @@ Overwatch is ideal for 🕵️‍♂️ **security professionals** and 🏹 **bu
 ---
 
 **Requirements**:  
-💻 Bash shell.  
-🛠️ Axiom and required tools installed (`subfinder`, `httpx`, `nuclei`, `notify`).  
+💻 Beginner knowledge of Bash scripting. 
+🛠️ Axiom and required tools installed (`subfinder`, `httpx`, `nuclei`, `notify`).
+
+Please find the following tools here:
+* [Axiom](https://github.com/attacksurge/ax)
+* [Subfinder](https://github.com/projectdiscovery/subfinder)
+* [Httpx](https://github.com/projectdiscovery/httpx)
+* [Nuclei](https://github.com/projectdiscovery/nuclei)
+* [Notify](https://github.com/projectdiscovery/notify)
 
 ---
 
